@@ -14,7 +14,7 @@ Welcome to my personal portfolio website! This site showcases my professional ba
 
 ## How to View the Site
 
-You can view my portfolio website by visiting(link) or by following these steps:
+You can view my portfolio website by visiting(https://gayathri-janagiraman.github.io/portfolio-simple-website/) or by following these steps:
 
 1. Clone the repository:
     
