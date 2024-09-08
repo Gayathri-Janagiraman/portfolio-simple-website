@@ -31,7 +31,7 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 ## Contact
 
 If you have any questions or would like to connect, you can reach me at:
-- **Email**: gayathrijanagiraman@gmail.com
+- **Email**: gayathrijanagiraman86@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/gayathri-janagiraman7/
 
 Thank you for visiting my portfolio website!
